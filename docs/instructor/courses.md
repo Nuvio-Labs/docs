@@ -5,7 +5,7 @@ sidebar_position: 2
 ---
 # Courses
 
-Courses are the main building blocks of ClassKit. They are the containers for all of your course content. Courses can be created by instructors and administrators. Courses can  be built from scrath or cloned from course templates.
+Courses are the main building blocks of Acadea. They are the containers for all of your course content. Courses can be created by instructors and administrators. Courses can  be built from scrath or cloned from course templates.
 
 ## Creating a course
 
@@ -34,9 +34,9 @@ To delete a course, go to the "Courses" tab on the top of the administrative das
 
 ## Course templates
 
-Course templates are courses that can be cloned to create new courses. Course templates are created by licensed instructors and the ClassKit team. To access the templates licensed by your institution, go to the "Courses" tab on the top of the administrative dashboard. On the Courses page, click the "Course Templates" tab. You will be presented with a list of available course templates. To clone a course template, click the "Clone" button next to the template you want to clone. You will be presented with a form where you can enter the details of your new course. Once you are done, click the "Create Course" button. This new course will be created with the same content as the original course. However, cloning a course does not copy the students and instructors of the original course, you will have to add them manually.
+Course templates are courses that can be cloned to create new courses. Course templates are created by licensed instructors and the Acadea team. To access the templates licensed by your institution, go to the "Courses" tab on the top of the administrative dashboard. On the Courses page, click the "Course Templates" tab. You will be presented with a list of available course templates. To clone a course template, click the "Clone" button next to the template you want to clone. You will be presented with a form where you can enter the details of your new course. Once you are done, click the "Create Course" button. This new course will be created with the same content as the original course. However, cloning a course does not copy the students and instructors of the original course, you will have to add them manually.
 
-To see a list of available course templates, visit the [ClassKit Marketplace](https://marketplace.ClassKit.io). If you would like to create course templates for ClassKit, please contact us at [this email](mailto:ClassKit@nuviolabs.com). 
+To see a list of available course templates, visit the [Acadea Marketplace](https://marketplace.Acadea.io). If you would like to create course templates for Acadea, please contact us at [this email](mailto:Acadea@nuviolabs.com). 
 
 ## Course settings
 

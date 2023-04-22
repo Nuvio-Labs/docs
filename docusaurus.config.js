@@ -6,12 +6,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'ClassKit Documentation',
-  tagline: 'Documentation for the ClassKit platform',
+  title: 'Acadea Documentation',
+  tagline: 'Documentation for the Acadea platform',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://help.classkit.io',
+  url: 'https://help.acadea.app',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -19,7 +19,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'nuvio-labs', // Usually your GitHub org/user name.
-  projectName: 'classkit-docs', // Usually your repo name.
+  projectName: 'docs', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -62,7 +62,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'ClassKit',
+        title: 'Acadea',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',

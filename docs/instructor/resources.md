@@ -7,7 +7,7 @@ sidebar_position: 4
 
 Resources are the content that you want to add to your course. They can be text or files. 
 
-Although any file can be added to a resource, ClassKit only allows for certain file types to be viewed in the browser. The following file types can be viewed in the browser:
+Although any file can be added to a resource, Acadea only allows for certain file types to be viewed in the browser. The following file types can be viewed in the browser:
 
 - Microsoft Word documents (.docx, .doc)
 - Microsoft Excel spreadsheets (.xlsx, .xls)

@@ -5,19 +5,19 @@ title: Welcome
 ---
 # Welcome
 
-Welcome to ClassKit Help Center. Here you can find answers to frequently asked questions and learn how to use ClassKit.
+Welcome to Acadea Help Center. Here you can find answers to frequently asked questions and learn how to use Acadea.
 
-## What is ClassKit?
+## What is Acadea?
 
-ClassKit is a learning management system (LMS) that allows you to create and deliver online courses. ClassKit is a cloud-based solution that is accessible from any device with an internet connection and a web browser (Chrome, Firefox, Safari, etc.).
+Acadea is a learning management system (LMS) that allows you to create and deliver online courses. Acadea is a cloud-based solution that is accessible from any device with an internet connection and a web browser (Chrome, Firefox, Safari, etc.).
 
-**This documentation is intended for ClassKit administrators and instructors. If you are a student, please contact your instructor for help.**
+**This documentation is intended for Acadea administrators and instructors. If you are a student, please contact your instructor for help.**
 
 ## How do I get started?
 
-First, you must log into your already existing ClassKit account. If you don't have an account, please contact your administrator.
+First, you must log into your already existing Acadea account. If you don't have an account, please contact your administrator.
 
-Once you are logged in, you will be presented with the ClassKit dashboard. The dashboard is the main page of ClassKit and it is where you can access all of your ClassKit features.
+Once you are logged in, you will be presented with the Acadea dashboard. The dashboard is the main page of Acadea and it is where you can access all of your Acadea features.
 
 ## How do I access my courses?
 
